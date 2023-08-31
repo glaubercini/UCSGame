@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UCSGame.Base;
-using UCSGame.Components;
+using UCSGame.Components.Characters;
 
 namespace UCSGame.Scenarios
 {
